@@ -22,9 +22,3 @@ python main.py --mode both --device cuda
 ```
 
 Use `--target`, `--epochs`, `--batch_size`, `--lr`, `--seed` as needed.
-
-## Output
-
-- **results/** — `<exp_name>/<target>/metrics.csv`, `summary_report.txt`, prediction npz; `consolidated_results.csv` for all runs.
-- **checkpoints/** — best model `FTIF_<dataset>.pth`.
-
