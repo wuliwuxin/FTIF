@@ -1,6 +1,6 @@
-# FTIF: Factorized Tail-Interaction Framework
+# Taming Multi-Dimensional Tail: A Factorized Tail-Interaction Framework for Hyperscale Cloud Workload Forecasting
 
-Multi-dimensional tail prediction for cloud systems.
+
 
 ## Install
 
@@ -22,3 +22,15 @@ python main.py --mode both --device cuda
 ```
 
 Use `--target`, `--epochs`, `--batch_size`, `--lr`, `--seed` as needed.
+
+## Citation
+
+If you find this work useful, please consider citing our paper:
+```
+@inproceedings{2026WuFTIF,
+  title={Taming Multi-Dimensional Tail: A Factorized Tail-Interaction Framework for Hyperscale Cloud Workload Forecasting},
+  author={Wu, Xin and Teng, Fei and Yang, Chen and Li, Tianrui},
+  booktitle={Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD‘26)},
+  year={2026}
+}
+```
