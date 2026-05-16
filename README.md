@@ -1,6 +1,4 @@
-# FTIF: Factorized Tail-Interaction Framework
-
-Official implementation of **"Taming Multi-Dimensional Tail: A Factorized Tail-Interaction Framework for Hyperscale Cloud Workload Forecasting"**.
+# Official implementation of "Taming Multi-Dimensional Tail: A Factorized Tail-Interaction Framework for Hyperscale Cloud Workload Forecasting"
 
 FTIF is a PyTorch framework for tail-aware cloud workload forecasting. It targets multi-dimensional heavy-tail signals in hyperscale cloud systems and includes experiments on:
 
