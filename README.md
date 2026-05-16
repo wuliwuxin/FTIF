@@ -1,7 +1,6 @@
 # Taming Multi-Dimensional Tail: A Factorized Tail-Interaction Framework for Hyperscale Cloud Workload Forecasting
 
 
-
 ## Install
 
 ```bash
